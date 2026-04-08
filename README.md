@@ -12,6 +12,8 @@ generates the documents that define a security program, GRC Operations Center mo
 the program as it runs. Together they cover the full GRC lifecycle from program creation to ongoing
 operations.
 
+Scroll down and see Installation section for a step-by-step guide on running this app locally on your machine.
+
 ---
 
 ## Live Demo
