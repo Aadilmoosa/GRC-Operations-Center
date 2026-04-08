@@ -1,6 +1,5 @@
 # GRC Operations Center
-
-**Built by Aadil Moosa | GRC Analyst | ISC2 Certified in Cybersecurity (CC) | CISA Candidate**
+Aadil Moosa | GRC Analyst | ISC2 Certified in Cybersecurity (CC) | CISA Candidate**
 
 An interactive, browser-based GRC and SOC operations dashboard that visualizes the complete health of
 a security program in real time. Built as part of an active CISA certification preparation portfolio to
@@ -13,6 +12,9 @@ the program as it runs. Together they cover the full GRC lifecycle from program 
 operations.
 
 Scroll down and see Installation section for a step-by-step guide on running this app locally on your machine.
+
+<img width="1512" height="865" alt="Screenshot 2026-04-08 at 1 13 20 PM" src="https://github.com/user-attachments/assets/bfc32b0b-0e19-43c1-9e24-39e1ece450c7" />
+
 
 ---
 
