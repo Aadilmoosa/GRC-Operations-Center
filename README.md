@@ -705,6 +705,6 @@ framework or discipline.
 GRC Analyst · Dallas, TX
 ISC2 Certified in Cybersecurity (CC) · CISA Candidate
 
-[LinkedIn](www.linkedin.com/in/aadil-moosa-) ·
+[LinkedIn](www.linkedin.com/in/aadil-moosa) ·
 [GitHub](https://github.com/Aadilmoosa) ·
 [GRC Forge](https://github.com/Aadilmoosa/GRC-Document-Automation-Platform-)
